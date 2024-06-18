@@ -27,6 +27,10 @@ print(13248748)
 
 
 
+class Solution():
+
+
+
 
 
 
