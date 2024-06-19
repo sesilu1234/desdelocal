@@ -2,7 +2,7 @@
 
 
 
-def sum(x,y):
+def sum_ydiv7(x,y):
 
 
-	return x + y
+	return (x + y)//7
