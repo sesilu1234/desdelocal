@@ -1,4 +1,4 @@
-lista = ["rebase a ver"]
+lista = ["rebase a ver", "puessssmeh"]
 
 
 from car import Car
