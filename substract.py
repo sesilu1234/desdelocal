@@ -1,5 +1,6 @@
 print("asdsafsfafs")
 print("asdsafsfafs")
+print("asdsafsfafs")
 
 
 def resta_ymulti4(x,y):
