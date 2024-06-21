@@ -3,6 +3,8 @@ print("FSSSG")
 
 print("FSdsad")
 
+print("FSSSG")
+
 
 def sum_ydiv7(x,y):
 
