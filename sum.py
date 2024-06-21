@@ -1,6 +1,10 @@
 
 print("FSSSG")
 
+print("FSdsad")
+
+print("FSSSG")
+
 
 def sum_ydiv7(x,y):
 
@@ -10,7 +14,7 @@ def sum_ydiv7(x,y):
 
 
 
-print()"kasasdsa"
+print("FSSSG")
 
-
-print("sadjafs")
+print("FSSSG")
+s
